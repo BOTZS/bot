@@ -491,10 +491,10 @@ break
 				if (!isUser) return reply(mess.only.adrx1)
 				
 				buffer = await getBuffer(`https://cdn.discordapp.com/attachments/832041762352529488/838569454975713280/IMG-20210502-WA0045.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: `●𒊹︎ᏴϴͲ𒊹︎︎︎𝐌𝐄𝐋𝐈𝐎𝐃𝐀𝐒𒊹︎︎︎*ESTE BOT ESTA EM FAZE DE TESTE*●
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: `●𒊹︎ᏴϴͲ𒊹︎︎︎𝐌𝐄𝐋𝐈𝐎𝐃𝐀𝐒𒊹︎︎︎wa.me/558197660171●
 ●𒊹︎︎︎𝐃𝐎𝐍𝐎𒊹︎︎︎𝐀𝐃𝐑𝐗𒊹︎︎︎●
 
-                           ❬ 🦊MENU🦊 ❭      
+                           ❬ ⚡MENU⚡ ❭      
                                                
 ╠➥🐊${prefix}play "baixar musicas"
 ╠➥🐊${prefix}txtf "transforma texto em figurinha"
@@ -561,7 +561,7 @@ break
 ╠➥🐊${prefix}timer "escolher um tempo"
 ╠➥🐊${prefix}naruto "fotos aleatórias do anime"
 ╠══════════════════════
- <EM BREVE TERÁ MAIS COMANDOS>            
+ <EM BREVE TERÁ MAIS COMANDOS..>            
 ╠═════════════════════════`})
 		
 					break
